@@ -10,17 +10,17 @@ baseurl: "https://tyhtyhtyh.github.io/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner:Mayday_tyh
+email:947621178@qq.com
 facebook_username:
 twitter_username:
-github_username:
+github_username:tyhtyhtyh
 address:
   - line:
   - line:
   # Feel free to add more lines here 
 telephone:
-copyright:
+copyright:Mayday_tyh
 
 # API settings
 google_api_key:
